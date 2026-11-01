@@ -158,6 +158,6 @@ Online-Exam-Monitoring-System/
 
 ## 👨‍💻 Author
 
-**Aniket  Desale**
+**Avinash Kad**
 
 SQL Database Management Project
